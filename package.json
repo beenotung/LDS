@@ -1,0 +1,21 @@
+{
+  "name": "lds",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "types": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beenotung/lds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "BSD-3-Clauses",
+  "bugs": {
+    "url": "https://github.com/beenotung/lds/issues"
+  },
+  "homepage": "https://github.com/beenotung/lds#readme"
+}
