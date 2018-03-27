@@ -1,0 +1,9 @@
+= LDS
+
+Linked Data Storage
+
+On top of Git, IPFS, or NDN
+
+== Slides
+
+https://docs.google.com/presentation/d/1ol9xJcMpCzLINtozJ9QKqtf3SylZEZsXBEDaBNYOXIE/edit?usp=sharing
